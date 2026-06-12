@@ -1,2 +1,2 @@
 # kingsley1000
-Sales performance analysis and oversights with excel
+Sales performance analysis and oversights with microsoft excel.
